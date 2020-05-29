@@ -21,7 +21,7 @@ mvn clean compile
 ```
 
 ## Run app
-This is Java 11 modularized application, so use Java-modules command-line options. 
+This is Java 11 modularized application, so use Java-modules command-line options.  
 Current implementation doesn't have stop mechanics, use Ctrl+C to interrupt and close the app.
 
 ### Windows
