@@ -1,4 +1,4 @@
-# ru.hse.todo.swt
+# ru.hse.rpg
 A pet project to write simple Hero-attacks-Monster mechanics application in OOP design with keeping in mind that:
 1. Contract/interface goes first.
 2. Loose coupling and high cohesion.
